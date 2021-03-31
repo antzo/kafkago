@@ -1,4 +1,4 @@
-module kafkago
+module github.com/antzo/kafkago
 
 go 1.16
 
